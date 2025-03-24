@@ -12,6 +12,9 @@
 <h3>Experience:<h3>
 <il>
   <li>Plugin for Minecraft server 1.20.1 with registrations including connection with database</li>
-  <li>Telegram bot for dating with ML for better searching engine</li>
-  <li>Minecraft mod for better horse expirience</li>
+  <li>Telegram bot for dating with ML for better searching engine(In development)</li>
+  <li>Minecraft mod for better horse expirience(In development)</li>
+  <li>Minecraft mod for pets with some abilities(In development)</li>
 </il>
+
+
