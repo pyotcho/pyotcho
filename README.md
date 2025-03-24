@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align='center'>Hi there 👋, Hi there, i'm Alexey</h1>
 
-<!--
-**pyotcho/pyotcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>I am junior java developer</h2>
 
-Here are some ideas to get you started:
+<h3>About</h3>
+<h4>  A fourth-year university student, majoring in computer science.</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Skills</h3>
+<h4>Hard skills: Java core / Maven / Gradle / Forge API / Spigot MC / TelegramBot API / Spring(Learning) </h4>
+<h4>  Databases: PostgreSQL</h4>
+
+<h3>Experience:<h3>
+<il>
+  <li>Plugin for Minecraft server 1.20.1 with registrations including connection with database</li>
+  <li>Telegram bot for dating with ML for better searching engine</li>
+  <li>Minecraft mod for better horse expirience</li>
+</il>
